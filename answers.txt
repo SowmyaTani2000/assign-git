@@ -5,7 +5,7 @@ They can be local, global or shared with the team.In a java projectt, we usually
 
 •  What does fast-forward in git mean? 
 It means to move the main branch’s tip to the end of one’s feature branch without creating an extra merge commit. 
-Example, if we have 5 commits in feature and 3 commits in master, then fastward would point the master from 3rd commit to 5th commit. 
+Example, if we have 5 commits in feature and 3 commits in master, then fast-forward would points the master from 3rd commit to 5th commit of the feature branch. 
 
 
 •  Why should you have different branches? 
