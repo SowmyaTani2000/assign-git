@@ -6,12 +6,13 @@ They can be local, global or shared with the team. In a java project, we usually
 •  What does fast-forward in git mean? 
 It means to move the main branch’s tip to the end of one’s feature branch without creating an extra merge commit. 
 Example, if we have 5 commits in feature and 3 commits in master, then fast-forward would pointSS the master from 3rd commit to 5th commit of the feature branch. 
-The master branch should always be kept clean. When multiple developers are working, they simply create a branch independently and if they want to merge it with the master, they need to pull request.
-This way the master branch is not tampered in any way. The developers work on their feature branches. 
 
 
 •  Why should you have different branches? 
 Branches allow the developer to branch out from the main line and work independently from others without messing with the main line.
+The master branch should always be kept clean. When multiple developers are working, they simply create a branch independently and if they want to merge it with the master, they need to pull request.
+This way the master branch is not tampered in any way. The developers work on their feature branches. 
+
 
 
 •  In a project how many remote Git repositories do you usually have?
